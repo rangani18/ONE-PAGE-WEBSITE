@@ -58,7 +58,7 @@
 }
 .sub-menu ul li a{
     color: black;
-    transition: all 0.2s linear;
+    transition: all 0.1s linear;
 }
 .sub-menu ul li a:hover{
     color: #7cbd1e;
